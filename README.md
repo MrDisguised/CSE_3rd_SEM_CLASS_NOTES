@@ -1,4 +1,5 @@
-# CSE_3rd_SEM_CLASS_NOTES
+# CSE 3rd Semister class NOTES
 
-Class notes for 3rd Semister CSE 2B students 
+IEM Kolkata (UEMK) class notes for 3rd Semister CSE 2B students.
+
 Feel free to share my notes.
